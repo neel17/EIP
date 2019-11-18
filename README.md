@@ -1,5 +1,8 @@
 # EIP
-
+```
+print(score)
+[0.03684927592134036, 0.9916]
+```
 # Convolution
 Convolution is basically a mathematical opertion which is applied on two different funtion let say one is f and other one ig g. Once the convolution is done on these two function it result in a new function or an output which has details about how the previous functions have effected each other. 
 
